@@ -13,3 +13,22 @@ hr{
 h1,h2,h3{
     color: #557174;
 }
+
+.magic{
+    background-color: goldenrod;
+}
+
+.magic:hover{
+    background-color: lightseagreen;
+}
+#heading3{
+    color: green;
+}
+
+.head:hover{
+    color: hotpink;
+}
+
+#heading3:hover{
+    color: #03506f;
+}
